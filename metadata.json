@@ -1,0 +1,7 @@
+{
+  "name": "Apon IT Institute",
+  "description": "A modern IT training institute platform with an integrated certificate management and QR verification system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
